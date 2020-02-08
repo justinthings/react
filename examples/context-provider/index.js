@@ -29,6 +29,6 @@ const Layout = props => (
 render(
   <Layout styles={stylesFromUser}>
     <Header>A Header</Header>
-  </Layout>,
+  </Layout>
   document.getElementById("root")
 );
